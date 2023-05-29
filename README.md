@@ -30,4 +30,20 @@ Este projeto tem potencial para receber futuras melhorias e se tornar mais profi
 git clone https://github.com/euviktors/tabelacomparacaodenotebooks.git
 
 2. Navegue até o diretório do projeto:
+cd tabelacomparacaodenotebooks
 
+
+3. Abra o arquivo `index.html` em um navegador web.
+
+## Personalização
+
+- Você pode adicionar ou remover notebooks da tabela, seguindo a estrutura de linhas e colunas já existente.
+- Para alterar o estilo visual do projeto, você pode modificar as propriedades CSS presentes diretamente no cabeçalho do arquivo `index.html`.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você identificou algum problema ou tem uma sugestão de melhoria, por favor, abra uma nova issue ou envie um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
