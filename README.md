@@ -45,6 +45,14 @@ cd tabelacomparacaodenotebooks
 
 Contribuições são bem-vindas! Se você identificou algum problema ou tem uma sugestão de melhoria, por favor, abra uma nova issue ou envie um pull request.
 
+## Imagens do projeto V0.1
+![Descrição da primeira imagem](https://raw.githubusercontent.com/euviktors/tabelacomparacaodenotebooks/main/Captura%20de%20tela%202023-05-29%20022429.png)
+
+![Descrição da segunda imagem](https://raw.githubusercontent.com/euviktors/tabelacomparacaodenotebooks/main/Captura%20de%20tela%202023-05-29%20020754.png)
+
+![Descrição da terceira imagem](https://raw.githubusercontent.com/euviktors/tabelacomparacaodenotebooks/main/Captura%20de%20tela%202023-05-29%20023842.png)
+
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
