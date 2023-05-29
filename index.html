@@ -34,6 +34,9 @@
 
     th {
       background-color: #f2f2f2;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     /* Estilizando os links como botões */
@@ -74,6 +77,10 @@
       color: white;
       padding: 10px;
       text-align: center;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
     }
   </style>
 </head>
@@ -83,12 +90,12 @@
   <table>
     <tr>
       <th>Nome do Notebook</th>
-      <th>Preço do Produto</th>
-      <th>Placa de Vídeo</th>
+      <th style="white-space: normal;">Preço</th>
+      <th >Placa de Vídeo</th>
       <th>Memória RAM</th>
-      <th>Desempenho em Jogos (Nota)</th>
-      <th>Edição de Vídeos (Nota)</th>
-      <th>Programação (Nota)</th>
+      <th>Desp. Jogos<br>(Nota)</th>
+      <th>Edição de Vídeos<br>(Nota)</th>
+      <th>Programação<br>(Nota)</th>
     </tr>
     <tr>
       <td>Notebook Gamer Asus M570D</td>
@@ -186,7 +193,7 @@
   </table>
 
   <footer>
-    Desenvolvido por Viktor Dev em 2023
+    &copy; 2023 Comparação de Notebooks - Desenvolvido por Viktor DEV. Todos os direitos reservados.
   </footer>
 </body>
 </html>
