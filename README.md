@@ -1,7 +1,7 @@
 # Comparação de Notebooks
 
 Este é um projeto simples que apresenta uma tabela comparativa de notebooks em relação ao desempenho em jogos, com informações adicionais sobre cada notebook e links para os anúncios correspondentes.
-
+Link do projeto: https://euviktors.github.io/tabelacomparacaodenotebooks
 ## Tecnologias Utilizadas
 
 - HTML
